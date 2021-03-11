@@ -1,7 +1,7 @@
-<?php $company = "EL CESAR RESTAURANT & BAR";
-$phone = "(978) 794-8169";
-	$address1 = "99 ESSEX ST";
-	$address2 = "LAWRENCE, MA 01840";
+<?php $company = "Auto Tinting Miami";
+$phone = "(305) 507-7545";
+	$address1 = "561 SW 8th St Ste 4";
+	$address2 = "Miami, FL 33131";
 ?>
 <!DOCTYPE html>
 <html style="font-size: 16px;">
